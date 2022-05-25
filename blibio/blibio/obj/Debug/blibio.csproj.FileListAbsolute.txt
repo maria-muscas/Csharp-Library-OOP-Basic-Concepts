@@ -1,0 +1,8 @@
+C:\Users\maria\TI_AN2\SEM_2\poo\blibio\blibio\bin\Debug\blibio.exe.config
+C:\Users\maria\TI_AN2\SEM_2\poo\blibio\blibio\bin\Debug\blibio.exe
+C:\Users\maria\TI_AN2\SEM_2\poo\blibio\blibio\bin\Debug\blibio.pdb
+C:\Users\maria\TI_AN2\SEM_2\poo\blibio\blibio\obj\Debug\blibio.csproj.AssemblyReference.cache
+C:\Users\maria\TI_AN2\SEM_2\poo\blibio\blibio\obj\Debug\blibio.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\TI_AN2\SEM_2\poo\blibio\blibio\obj\Debug\blibio.csproj.CoreCompileInputs.cache
+C:\Users\maria\TI_AN2\SEM_2\poo\blibio\blibio\obj\Debug\blibio.exe
+C:\Users\maria\TI_AN2\SEM_2\poo\blibio\blibio\obj\Debug\blibio.pdb
